@@ -68,7 +68,7 @@
     "inquirer": "^7.0.0",
     "linkifyjs": "^2.1.8",
     "moment": "^2.24.0",
-    "netlify-cms-app": "^2.9.7",
+    "netlify-cms-app": "^2.15.27",
     "polished": "^4.1.0",
     "prop-types": "^15.7.2",
     "react": "^17.0.1",
